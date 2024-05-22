@@ -3,7 +3,7 @@
 
 https://github.com/prathikkaranth/Flocking/assets/53780002/64c772e8-6dd5-4b03-8137-18d1b17edecf
 
-## Dependancies
+## Dependencies
 Required:
 
 - [openFrameworks](https://openframeworks.cc/)
